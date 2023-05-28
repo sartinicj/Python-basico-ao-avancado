@@ -3,7 +3,7 @@
 Olá Mundo
 -987654321
 Fatiamento [1:f:p] [::]
-len retona a qtdde caractere da str
+len retona a qtd de caractere da str
 '''
 
 var = 'Olá Mundo'
