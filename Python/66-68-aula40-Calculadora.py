@@ -21,9 +21,6 @@ while entrada == '1':
             
 print('Fim de execução!')  
 
-        #TODO: criar a lógica de forma que na segunda vez que passar pela calculador, perguntar se quer digitar novos numeros ou outra operação
-        # valor = input('Digitar novo valor?s/n ')
-        #while valor = 'n':
-
-                      
-
+#    TODO: criar a lógica de forma que na segunda vez que passar pela calculadora, perguntar se quer digitar novos numeros ou outra operação
+#    valor = input('Digitar novo valor?s/n ')
+#    while valor = 'n':
